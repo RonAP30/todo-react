@@ -1,6 +1,7 @@
 import React from 'react';
 
 /**
+ * 
  * Returns a new object with only few attributes of the original object.
  * Note: the attributes/properties will still be bound to the old object.
  *
